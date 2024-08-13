@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs # Github Pages looks here
 
 website:
   title: "quarto-github-pages-experiment"

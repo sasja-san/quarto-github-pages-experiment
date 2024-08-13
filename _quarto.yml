@@ -20,7 +20,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: [flatly, .quarto/darkly.scss]
     css: styles.css
     toc: true
 

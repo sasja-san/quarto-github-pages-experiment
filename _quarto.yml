@@ -1,6 +1,11 @@
 project:
   type: website
-  output-dir: docs # Github Pages looks here
+  # The `output-dir` has to match what's set up on
+  # Github. It's under 
+  # repo Settings
+  #   >> Pages
+  #   >> Buld and deployment
+  output-dir: gp_site
 
 website:
   title: "quarto-github-pages-experiment"
